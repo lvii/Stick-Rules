@@ -55,6 +55,17 @@ curl -f#L https://github.com/Hackl0us/SS-Rule-Snippet/raw/refs/heads/main/Rulese
 curl -f#L https://github.com/Loyalsoldier/clash-rules/raw/refs/heads/release/lancidr.txt -o LAN-Loyalsoldier.list
 ```
 
+## Privacy
+
+OLD xOS:
+
+- <https://github.com/Yao4github/Config/blob/Her/QuantumultX/RuleSet/Privacy.list>
+- <https://github.com/Saming09091/Config/blob/Her/QuantumultX/RuleSet/Privacy.list>
+
+
+<https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy>
+
+<https://github.com/xOS/Config/blob/Her/RuleSet/Privacy.list>
 
 
 
