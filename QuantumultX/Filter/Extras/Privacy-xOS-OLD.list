@@ -1,23 +1,22 @@
+# https://github.com/Saming09091/Config/blob/Her/QuantumultX/RuleSet/Privacy.list
+
 # > Privacy
 HOST,track.tiara.daum.net,REJECT
 HOST,track.tiara.kakao.com,REJECT
 HOST,zgsdk.zhugeio.com,REJECT
 
 # > Alibaba
-USER-AGENT,MTOPSDK*
-USER-AGENT,Munion-SDK*
-DOMAIN-KEYWORD,mdc.
-DOMAIN-KEYWORD,mum.
-DOMAIN-KEYWORD,adash
-DOMAIN,umdc.aliapp.org
-DOMAIN,ynuf.aliapp.org
-DOMAIN,amdc.alipay.com
-DOMAIN,mobilegw.alipay.com
-DOMAIN,mum.m.alibaba.com
-DOMAIN,mum.m.taobao.com
-DOMAIN,audid-api.taobao.com
-DOMAIN,mazu.m.qq.com
-DOMAIN,acs.m.taobao.com
+HOST-KEYWORD,mdc.,REJECT
+HOST-KEYWORD,mum.,REJECT
+HOST-KEYWORD,adash,REJECT
+HOST,umdc.aliapp.org,REJECT
+HOST,ynuf.aliapp.org,REJECT
+HOST,amdc.alipay.com,REJECT
+HOST,mobilegw.alipay.com,REJECT
+HOST,mum.m.alibaba.com,REJECT
+HOST,mum.m.taobao.com,REJECT
+HOST,acs.m.taobao.com,REJECT
+HOST,audid-api.taobao.com,REJECT
 
 # > 51.LA
 HOST,js.users.51.la,REJECT
@@ -52,7 +51,7 @@ HOST,srp2.snssdk.com,REJECT
 HOST,srp1.snssdk.com,REJECT
 HOST,srp3.snssdk.com,REJECT
 HOST,diamond.snssdk.com,REJECT
-HOST,toutiao-frontier.snssdk.com
+HOST,toutiao-frontier.snssdk.com,REJECT
 
 # > Google
 #HOST-SUFFIX,googletagmanager.com,REJECT
@@ -65,11 +64,12 @@ HOST,data.mistat.xiaomi.com,REJECT
 HOST,tracking.intl.miui.com,REJECT
 
 # > Tencent
-HOST-SUFFIX,trace.qq.com,REJECT
+HOST,mazu.m.qq.com,REJECT
 HOST,btrace.qq.com,REJECT
 HOST,btrace.video.qq.com,REJECT
 HOST,mtrace.qq.com,REJECT
 HOST,safebrowsing.urlsec.qq.com,REJECT
+HOST-SUFFIX,trace.qq.com,REJECT
 
 # > Umeng
 HOST-KEYWORD,log.umeng.com,REJECT
