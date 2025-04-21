@@ -49,6 +49,14 @@ sed -i -E -e '2d' -e 's/^\s+//g' -e 's/-\s+//g' -e 's/^DOMAIN/HOST/g' -e 's/Zhih
 curl -f#L https://github.com/Hackl0us/SS-Rule-Snippet/raw/refs/heads/main/Rulesets/Quantumult/Basic/common-ad-keyword.list -o AdBlock-keywords-Hackl0us.list
 ```
 
+## LAN
+
+``` shell
+curl -f#L https://github.com/Loyalsoldier/clash-rules/raw/refs/heads/release/lancidr.txt -o LAN-Loyalsoldier.list
+```
+
+
+
 
 ## GEOIP
 
