@@ -1,24 +1,24 @@
 # Software Update
 # > macOS updates
-HOST,gg.apple.com
-HOST,gnf-mdn.apple.com
-HOST,gnf-mr.apple.com
-HOST,gs.apple.com
-HOST,ig.apple.com
-HOST,skl.apple.com
-HOST,swcdn.apple.com
-HOST,swdist.apple.com
-HOST,swdownload.apple.com
-HOST,swpost.apple.com
-HOST,swscan.apple.com
+HOST,gg.apple.com,Upgrade
+HOST,gnf-mdn.apple.com,Upgrade
+HOST,gnf-mr.apple.com,Upgrade
+HOST,gs.apple.com,Upgrade
+HOST,ig.apple.com,Upgrade
+HOST,skl.apple.com,Upgrade
+HOST,swcdn.apple.com,Upgrade
+HOST,swdist.apple.com,Upgrade
+HOST,swdownload.apple.com,Upgrade
+HOST,swpost.apple.com,Upgrade
+HOST,swscan.apple.com,Upgrade
 # > macOS Recovery
-HOST,oscdn.apple.com
-HOST,osrecovery.apple.com
+HOST,oscdn.apple.com,Upgrade
+HOST,osrecovery.apple.com,Upgrade
 # > iOS updates
-HOST,appldnld.apple.com
-HOST,ns.itunes.apple.com
+HOST,appldnld.apple.com,Upgrade
+HOST,ns.itunes.apple.com,Upgrade
 # > iOS, tvOS, and macOS
-HOST,mesu.apple.com
-HOST,updates.cdn-apple.com
-HOST,updates-http.cdn-apple.com
-HOST,xp.apple.com
+HOST,mesu.apple.com,Upgrade
+HOST,updates.cdn-apple.com,Upgrade
+HOST,updates-http.cdn-apple.com,Upgrade
+HOST,xp.apple.com,Upgrade
