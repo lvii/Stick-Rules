@@ -1,0 +1,24 @@
+# Software Update
+# > macOS updates
+HOST,gg.apple.com
+HOST,gnf-mdn.apple.com
+HOST,gnf-mr.apple.com
+HOST,gs.apple.com
+HOST,ig.apple.com
+HOST,skl.apple.com
+HOST,swcdn.apple.com
+HOST,swdist.apple.com
+HOST,swdownload.apple.com
+HOST,swpost.apple.com
+HOST,swscan.apple.com
+# > macOS Recovery
+HOST,oscdn.apple.com
+HOST,osrecovery.apple.com
+# > iOS updates
+HOST,appldnld.apple.com
+HOST,ns.itunes.apple.com
+# > iOS, tvOS, and macOS
+HOST,mesu.apple.com
+HOST,updates.cdn-apple.com
+HOST,updates-http.cdn-apple.com
+HOST,xp.apple.com
