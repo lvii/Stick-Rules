@@ -13,6 +13,26 @@
 
 [xOS](https://github.com/xOS/Config/blob/Her/)
 
+
+# filter
+
+默认 Quantumult X 会启用 **「分流匹配优化」**
+
+策略优先级先后顺序为：`HOST > HOST-SUFFIX > HOST-WILDCARD > HOST-KEYWORD > USER-AGENT > IP-CIDR`
+
+**匹配优先级** 不按 `filter_remote` 规则 **引用顺序** 匹配，被 **「分流匹配优化」** 覆盖：
+
+    AdBlock-keywords-Hackl0us.list:host-keyword,umeng,reject
+    Privacy-xOS-OLD.list:HOST-KEYWORD,log.umeng.com,REJECT
+    Privacy-xOS-OLD.list:HOST-KEYWORD,logs.umeng.com,REJECT
+    Privacy-xOS-OLD.list:HOST-KEYWORD,logs.umengcloud.com,REJECT
+
+    CN.list:HOST-SUFFIX,umeng.com,CN                                <-- 命中
+
+「设置」 --> 「其他设置」 --> 「VPN」 --> 「分流匹配优化」关闭
+
+[规则系统](https://wiki.repcz.link/quantumultx/filter/)
+
 ## HTTPDNS
 
 <https://github.com/peiyingyao/Rule-for-OCD/blob/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list>
@@ -72,3 +92,18 @@ OLD xOS:
 ## GEOIP
 
 <https://github.com/Hackl0us/GeoIP2-CN>
+
+
+## rewrite
+
+<https://github.com/app2smile/rules>
+
+    广告联盟
+    腾讯新闻
+    起点
+    Spotify
+    Spotify 歌词翻译
+    哔哩哔哩
+    贴吧
+    YouTube
+
