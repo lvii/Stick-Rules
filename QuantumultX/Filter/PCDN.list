@@ -4,57 +4,57 @@
 # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/AdvertisingMiTV
 
 # B站
-HOST,mcdn.bilivideo.cn
-HOST,mcdn.bilivideo.com
-HOST,ppio.bilivideo.com
-HOST,kodo.bilivideo.com
-HOST-SUFFIX,mountaintoys.cn
-HOST-SUFFIX,szbdyd.com
+HOST,mcdn.bilivideo.cn,Adblock
+HOST,mcdn.bilivideo.com,Adblock
+HOST,ppio.bilivideo.com,Adblock
+HOST,kodo.bilivideo.com,Adblock
+HOST-SUFFIX,mountaintoys.cn,Adblock
+HOST-SUFFIX,szbdyd.com,Adblock
 
 # 腾讯
-HOST,hcdn.video.qq.com
-HOST,pcdn.video.qq.com
-HOST,vodlive.qq.com
-HOST,iwan-s.video.qq.com
-HOST,gdt.qq.com
-HOST,cm.l.qq.com
-HOST,isure6.stream.qqmusic.qq.com
+HOST,hcdn.video.qq.com,Adblock
+HOST,pcdn.video.qq.com,Adblock
+HOST,vodlive.qq.com,Adblock
+HOST,iwan-s.video.qq.com,Adblock
+HOST,gdt.qq.com,Adblock
+HOST,cm.l.qq.com,Adblock
+HOST,isure6.stream.qqmusic.qq.com,Adblock
 
 # 爱奇艺
-HOST,hcdn.qiyi.com
-HOST,pdata.video.qiyi.com
-HOST,cachecdn.v.iqiyi.com
-HOST,meta-cdn.video.iq.com
-HOST,tpa-hcdn.iqiyi.com
-HOST,data6.video.iqiyi.com
+HOST,hcdn.qiyi.com,Adblock
+HOST,pdata.video.qiyi.com,Adblock
+HOST,cachecdn.v.iqiyi.com,Adblock
+HOST,meta-cdn.video.iq.com,Adblock
+HOST,tpa-hcdn.iqiyi.com,Adblock
+HOST,data6.video.iqiyi.com,Adblock
 
 # 优酷
-HOST,atm.youku.com
-HOST,Fvid.atm.youku.com
-HOST,html.atm.youku.com
-HOST,valb.atm.youku.com
-HOST,valf.atm.youku.com
-HOST,static.atm.youku.com
-HOST,valc.atm.youku.com
+HOST,atm.youku.com,Adblock
+HOST,Fvid.atm.youku.com,Adblock
+HOST,html.atm.youku.com,Adblock
+HOST,valb.atm.youku.com,Adblock
+HOST,valf.atm.youku.com,Adblock
+HOST,static.atm.youku.com,Adblock
+HOST,valc.atm.youku.com,Adblock
 
 # 字节
-HOST,pull-rtmp-l11.ixigua.com
-HOST,push-rtmp-l1.ixigua.com
-HOST,pull-hs-f5-hot.flive.douyincdn.com
+HOST,pull-rtmp-l11.ixigua.com,Adblock
+HOST,push-rtmp-l1.ixigua.com,Adblock
+HOST,pull-hs-f5-hot.flive.douyincdn.com,Adblock
 
 # 斗鱼
-HOST,p2p.douyucdn.cn
+HOST,p2p.douyucdn.cn,Adblock
 
 # 酷狗
-HOST,trackercdn.kugou.com
-HOST,mobiletrackercdn.kugou.com
-HOST,d.kugou.com
+HOST,trackercdn.kugou.com,Adblock
+HOST,mobiletrackercdn.kugou.com,Adblock
+HOST,d.kugou.com,Adblock
 
 # 网易云
-HOST,163jiasu.com
-HOST,sf.163.com
+HOST,163jiasu.com,Adblock
+HOST,sf.163.com,Adblock
 
 # 其他
-HOST-SUFFIX,p-cdn.com
+HOST-SUFFIX,p-cdn.com,Adblock
 HOST-SUFFIX,pscdn.co
 HOST,p.scdn.co
