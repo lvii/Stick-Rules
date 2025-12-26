@@ -56,5 +56,5 @@ HOST,sf.163.com,Adblock
 
 # 其他
 HOST-SUFFIX,p-cdn.com,Adblock
-HOST-SUFFIX,pscdn.co
-HOST,p.scdn.co
+HOST-SUFFIX,pscdn.co,Adblock
+HOST,p.scdn.co,Adblock
