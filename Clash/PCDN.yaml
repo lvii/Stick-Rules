@@ -1,0 +1,53 @@
+# [屏蔽 Bilibili PCDN 节点改善视频播放体验](https://luotianyi.vc/9260.html)
+# https://github.com/lyricer/Surge/blob/main/Reject.conf
+# https://github.com/yifai/Clash/blob/main/Rules/Reject.yaml
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingMiTV
+
+payload:
+  # B站
+  - DOMAIN,mcdn.bilivideo.cn
+  - DOMAIN,mcdn.bilivideo.com
+  - DOMAIN,ppio.bilivideo.com
+  - DOMAIN,kodo.bilivideo.com
+  - DOMAIN-SUFFIX,mountaintoys.cn
+  - DOMAIN-SUFFIX,szbdyd.com
+  # 腾讯
+  - DOMAIN,hcdn.video.qq.com
+  - DOMAIN,pcdn.video.qq.com
+  - DOMAIN,vodlive.qq.com
+  - DOMAIN,iwan-s.video.qq.com
+  - DOMAIN,gdt.qq.com
+  - DOMAIN,cm.l.qq.com
+  - DOMAIN,isure6.stream.qqmusic.qq.com
+  # 爱奇艺
+  - DOMAIN,hcdn.qiyi.com
+  - DOMAIN,pdata.video.qiyi.com
+  - DOMAIN,cachecdn.v.iqiyi.com
+  - DOMAIN,meta-cdn.video.iq.com
+  - DOMAIN,tpa-hcdn.iqiyi.com
+  - DOMAIN,data6.video.iqiyi.com
+  # 优酷
+  - DOMAIN,atm.youku.com
+  - DOMAIN,Fvid.atm.youku.com
+  - DOMAIN,html.atm.youku.com
+  - DOMAIN,valb.atm.youku.com
+  - DOMAIN,valf.atm.youku.com
+  - DOMAIN,static.atm.youku.com
+  - DOMAIN,valc.atm.youku.com
+  # 字节
+  - DOMAIN,pull-rtmp-l11.ixigua.com
+  - DOMAIN,push-rtmp-l1.ixigua.com
+  - DOMAIN,pull-hs-f5-hot.flive.douyincdn.com
+  # 斗鱼
+  - DOMAIN,p2p.douyucdn.cn
+  # 酷狗
+  - DOMAIN,trackercdn.kugou.com
+  - DOMAIN,mobiletrackercdn.kugou.com
+  - DOMAIN,d.kugou.com
+  # 网易云
+  - DOMAIN,163jiasu.com
+  - DOMAIN,sf.163.com
+  # 其他
+  - DOMAIN-SUFFIX,p-cdn.com
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN,p.scdn.co
