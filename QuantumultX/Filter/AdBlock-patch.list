@@ -1,0 +1,8 @@
+# > Xiaodu
+# usr-api.1sapp.com
+# show-api.1sapp.com
+# api.qttunion.com
+# service.qttunion.com
+HOST-SUFFIX,1sapp.com, AdBlock
+HOST-SUFFIX,qttunion.com,AdBlock
+IP-CIDR,119.29.29.98/32,AdBlock
