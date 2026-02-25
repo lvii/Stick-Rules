@@ -3,7 +3,14 @@
 # show-api.1sapp.com
 # api.qttunion.com
 # service.qttunion.com
-HOST, sofire.baidu.com, AdBlock
+# tk.hookspf.com
+# api.yunxish.com
+# adtrack.qianwen.com
+# tencent-ssp.66mobi.com
+HOST, adtrack.qianwen.com, AdBlock
 HOST-SUFFIX, 1sapp.com, AdBlock
+HOST-SUFFIX, 66mobi.com, AdBlock
+HOST-SUFFIX, hookspf.com, AdBlock
+HOST-SUFFIX, yunxish.com, AdBlock
 HOST-SUFFIX, qttunion.com, AdBlock
 IP-CIDR, 119.29.29.98/32, AdBlock
