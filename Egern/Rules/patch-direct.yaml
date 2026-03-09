@@ -1,0 +1,18 @@
+domain_set:
+  # Firefox
+  - download-installer.cdn.mozilla.net
+  # Alipay
+  - amdc.m.taobao.com
+  - mobilegw.alipay.com
+  # 萤石
+  - httpdns.yunxindns.com
+  # Spotify
+  - cdn.branch.io
+  # VSCO / darkroom App
+  - api.revenuecat.com
+domain_keyword_set:
+  - spotify-com.akamaized.net
+
+domain_suffix_set:
+  - ys7.com
+  - xiaoduwifi.com

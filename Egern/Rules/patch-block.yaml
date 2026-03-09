@@ -1,0 +1,18 @@
+domain_set:
+  # Xiaodu
+  - crab.baidu.com
+  - sofire.baidu.com
+  - pufferstatis.xdrtc.com
+  # 萤石
+  # i.ys7.com 消息推送缩略图 thumbnail image
+  - log.ys7.com
+  - bfe.ys7.com
+  - ecapi-flood.ys7.com
+  - abt-online.netease.im
+  - license.vod2.myqcloud.com
+ip_cidr_set:
+  - 119.29.29.98/32
+
+
+host, httpdns.yunxindns.com, direct
+host-suffix, ys7.com, direct
