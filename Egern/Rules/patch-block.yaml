@@ -10,9 +10,12 @@ domain_set:
   - ecapi-flood.ys7.com
   - abt-online.netease.im
   - license.vod2.myqcloud.com
+  # Douban
+  - amonsul.douban.com
+  - reaper.emergetools.com
+  - app-analytics-services.com
+domain_suffix_set:
+  - gdt.qq.com
+  - anythinktech.com
 ip_cidr_set:
   - 119.29.29.98/32
-
-
-host, httpdns.yunxindns.com, direct
-host-suffix, ys7.com, direct
