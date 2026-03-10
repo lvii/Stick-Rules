@@ -1,0 +1,30 @@
+domain_set:
+  # Spotify
+  # - spotify.com
+  # - open.spotify.com
+  # - login5.spotify.com
+  # - spclient.wg.spotify.com
+  # Google Play
+  # https://github.com/vernesong/OpenClash/discussions/3131
+  # - www.googleapis.cn
+  # - services.googleapis.cn
+  # - clientservices.googleapis.com
+  - connectivitycheck.gstatic.com
+domain_suffix_set:
+  # # Google Play
+  # # - googleapis.cn
+  # - xn--ngstr-lra8j.com
+  # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
+  # https://github.com/Repcz/Tool/blob/X/Egern/Rules/Github.yaml
+  - github.com
+  - github.io
+  - githubapp.com
+  - githubassets.com
+  - githubusercontent.com
+  # Egern App
+  - nutrepo.com
+  - egernapp.com
+  # 不明白 podcast
+  - buzzsprout.com
+domain_keyword_set:
+  - github

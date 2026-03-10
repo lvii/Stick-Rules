@@ -7,9 +7,13 @@
 
 [Loyalsoldier](https://github.com/Loyalsoldier/clash-rules)
 
+[blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)
+
 [DivineEngine RuleGo](https://github.com/ConnersHua/RuleGo/tree/master)
 
 [~DivineEngine Profiles~](https://github.com/DivineEngine/Profiles/tree/master)
+
+[Luminous/DivineEngine](https://github.com/axtyet/Luminous/blob/main/DivineEngine/Quantumult/Filter/Extra/Cryptocurrency.list)
 
 [Hackl0us SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 

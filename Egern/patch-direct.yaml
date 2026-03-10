@@ -10,10 +10,19 @@ domain_set:
   - cdn.branch.io
   # VSCO / darkroom App
   - api.revenuecat.com
+  # Google Play
+  # https://github.com/vernesong/OpenClash/discussions/3131
+  - fonts.googleapis.com
+  - update.googleapis.com
+  - translate.googleapis.com
+  - clientservices.googleapis.com
 domain_keyword_set:
   - '-cn'
   - officecdn
   - spotify-com.akamaized.net
 domain_suffix_set:
+  # Google Play
+  - googleapis.cn
+  - xn--ngstr-lra8j.com
   - ys7.com
   - xiaoduwifi.com
