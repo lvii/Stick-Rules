@@ -1,3 +1,4 @@
+no_resolve: true
 domain_set:
   # Firefox
   - download-installer.cdn.mozilla.net
@@ -16,13 +17,30 @@ domain_set:
   - update.googleapis.com
   - translate.googleapis.com
   - clientservices.googleapis.com
+  # github CDN
+  - raw.fastgit.org
+  - fastly.jsdelivr.net
+  - testingcf.jsdelivr.net
 domain_keyword_set:
   - '-cn'
   - officecdn
+  # BT
+  - torrent
+  - tracker
+  - announce
+  # Spotify
   - spotify-com.akamaized.net
 domain_suffix_set:
   # Google Play
   - googleapis.cn
   - xn--ngstr-lra8j.com
+  # github CDN
+  - gh-proxy.com
+  # Apple
+  - apple-dns.net
+  - push.apple.com
   - ys7.com
   - xiaoduwifi.com
+ip_cidr_set:
+  # Taobao
+  - 47.246.0.0/8

@@ -10,7 +10,11 @@ domain_set:
   # - services.googleapis.cn
   # - clientservices.googleapis.com
   - connectivitycheck.gstatic.com
+
 domain_suffix_set:
+  - myip.la
+  - notion.so
+  - evernote.com
   # # Google Play
   # # - googleapis.cn
   # - xn--ngstr-lra8j.com
@@ -24,7 +28,9 @@ domain_suffix_set:
   # Egern App
   - nutrepo.com
   - egernapp.com
+  - nssurge.com
   # 不明白 podcast
   - buzzsprout.com
+
 domain_keyword_set:
   - github
