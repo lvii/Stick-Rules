@@ -4,5 +4,7 @@ domain_set:
   - login5.spotify.com
   - spclient.wg.spotify.com
 domain_suffix_set:
+  - nutrepo.com
+  - egernapp.com
   # 不明白 podcast
   - buzzsprout.com

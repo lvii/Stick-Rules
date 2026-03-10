@@ -11,6 +11,8 @@ domain_set:
   # VSCO / darkroom App
   - api.revenuecat.com
 domain_keyword_set:
+  - '-cn'
+  - officecdn
   - spotify-com.akamaized.net
 domain_suffix_set:
   - ys7.com
