@@ -17,26 +17,9 @@ domain_set:
   - httpdns.yunxindns.com
   # 美团 HTTPDNS
   - resolvers-cn.httpdns.aliyuncs.com
-  # Douban
-  - amonsul.douban.com
-  - reaper.emergetools.com
-  - app-analytics-services.com
-# domain_wildcard_set:
-#   - aljnv?.ys7.com
-domain_suffix_set:
-  # - idaddy.cn
-  - 1sapp.com
-  - 66mobi.com
-  - hookspf.com
-  - xunruns.com
-  - yunxish.com
-  - iggrowth.cn
-  - ubixioe.com
-  - qttunion.com
-  - gdt.qq.com
-  - anythinktech.com
-ip_cidr_set:
-  - 119.29.29.98/32
+  - dnspod.meituan.httpdns.qcloud.com
+  - dnspod.meituan.httpdns.start.qcloud.com
+  - hcdnl.pull302.gslb.livehwc3.cn
 
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Telegram/Telegram.list
 # OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
