@@ -20,7 +20,7 @@ domain_set:
 # domain_wildcard_set:
 #   - aljnv?.ys7.com
 domain_suffix_set:
-  - idaddy.cn
+  # - idaddy.cn
   - 1sapp.com
   - 66mobi.com
   - hookspf.com
