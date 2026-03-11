@@ -20,7 +20,9 @@ domain_set:
   - dnspod.meituan.httpdns.qcloud.com
   - dnspod.meituan.httpdns.start.qcloud.com
   - hcdnl.pull302.gslb.livehwc3.cn
-
+  - httpdnsmultiapivip.meituan.com
+  - httpdnsmultiapi.meituan.com
+  - httpdns.meituan.com
 domain_suffix_set:
   - httpdns.qcloud.com
 
