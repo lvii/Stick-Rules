@@ -68,8 +68,8 @@ ip_cidr_set:
 #   - !domain_suffix
 #     match: azurefd.net
 
-and_set:
-- - !protocol:
-    match: udp
-  - !dest_port:
-    match: "6750"
+# and_set:
+# - - !protocol:
+#     match: udp
+#   - !dest_port:
+#     match: "6750"
