@@ -8,9 +8,9 @@ domain_set:
   - pufferstatis.xdrtc.com
   # 萤石
   # i.ys7.com 消息推送缩略图 thumbnail image
-  - log.ys7.com
+  # - log.ys7.com
   - bfe.ys7.com
-  # - ecapi-flood.ys7.com
+  - ecapi-flood.ys7.com
   - abt-online.netease.im
   - license.vod2.myqcloud.com
   # Douban
