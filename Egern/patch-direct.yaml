@@ -39,6 +39,9 @@ domain_suffix_set:
   - push.apple.com
   - ys7.com
   - xiaoduwifi.com
+  - meituan.com
+  - meituan.net
+  - dianping.com
 ip_cidr_set:
   # Taobao
   - 47.246.0.0/8
