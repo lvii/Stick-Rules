@@ -15,6 +15,8 @@ domain_set:
   - license.vod2.myqcloud.com
   # 萤石 Huawei HTTPDNS
   - httpdns.yunxindns.com
+  # 美团 HTTPDNS
+  - resolvers-cn.httpdns.aliyuncs.com
   # Douban
   - amonsul.douban.com
   - reaper.emergetools.com
