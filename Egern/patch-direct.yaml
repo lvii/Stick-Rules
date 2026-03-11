@@ -5,8 +5,6 @@ domain_set:
   # Alipay
   - amdc.m.taobao.com
   - mobilegw.alipay.com
-  # 萤石
-  - httpdns.yunxindns.com
   # Spotify
   - cdn.branch.io
   # VSCO / darkroom App

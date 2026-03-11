@@ -13,6 +13,8 @@ domain_set:
   # - ecapi-flood.ys7.com
   - abt-online.netease.im
   - license.vod2.myqcloud.com
+  # 萤石 Huawei HTTPDNS
+  - httpdns.yunxindns.com
   # Douban
   - amonsul.douban.com
   - reaper.emergetools.com
