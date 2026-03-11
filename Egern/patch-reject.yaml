@@ -1,6 +1,8 @@
 no_resolve: true
 domain_set:
   # Xiaodu
+  - im-x.jd.com
+  - adtrack.qianwen.com
   - crab.baidu.com
   - sofire.baidu.com
   - pufferstatis.xdrtc.com
@@ -16,6 +18,15 @@ domain_set:
   - reaper.emergetools.com
   - app-analytics-services.com
 domain_suffix_set:
+  - idaddy.cn
+  - 1sapp.com
+  - 66mobi.com
+  - hookspf.com
+  - xunruns.com
+  - yunxish.com
+  - iggrowth.cn
+  - ubixioe.com
+  - qttunion.com
   - gdt.qq.com
   - anythinktech.com
 ip_cidr_set:
