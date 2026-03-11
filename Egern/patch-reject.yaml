@@ -31,3 +31,45 @@ domain_suffix_set:
   - anythinktech.com
 ip_cidr_set:
   - 119.29.29.98/32
+
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Telegram/Telegram.list
+# OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
+
+# https://github.com/shanhaishishan/Egern/blob/master/Rule/Telegram/Telegram.yaml
+# or_set:
+# - - !asn
+#     match: '44907'
+#     no_resolve: true
+#   - !asn
+#     match: '59930'
+#     no_resolve: true
+#   - !asn
+#     match: '62014'
+#     no_resolve: true
+#   - !asn
+#     match: '62041'
+#     no_resolve: true
+#   - !asn
+#     match: '211157'
+#     no_resolve: true
+
+# https://github.com/mist-whisper/Surge/blob/master/Rules/AI/AI.list
+# AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))
+# AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
+
+# https://github.com/shanhaishishan/Egern/blob/master/Rule/AI/AI.yaml
+# and_set:
+# - - !domain_keyword
+#     match: chatgpt-async-webps-prod-
+#   - !domain_suffix
+#     match: webpubsub.azure.com
+# - - !domain_keyword
+#     match: openaicom-api-
+#   - !domain_suffix
+#     match: azurefd.net
+
+and_set:
+- - !protocol:
+    match: udp
+  - !dest_port:
+    match: "6750"
