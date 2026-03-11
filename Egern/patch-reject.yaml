@@ -21,6 +21,9 @@ domain_set:
   - dnspod.meituan.httpdns.start.qcloud.com
   - hcdnl.pull302.gslb.livehwc3.cn
 
+domain_suffix_set:
+  - httpdns.qcloud.com
+
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Telegram/Telegram.list
 # OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
 
