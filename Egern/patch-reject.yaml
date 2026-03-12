@@ -1,11 +1,14 @@
 no_resolve: true
+
 domain_set:
+
   # Xiaodu
   - im-x.jd.com
   - adtrack.qianwen.com
   - crab.baidu.com
   - sofire.baidu.com
   - pufferstatis.xdrtc.com
+
   # 萤石
   # i.ys7.com 消息推送缩略图 thumbnail image
   - bfe.ys7.com
@@ -13,16 +16,22 @@ domain_set:
   # - ecapi-flood.ys7.com
   - abt-online.netease.im
   - license.vod2.myqcloud.com
+
   # 萤石 Huawei HTTPDNS
   - httpdns.yunxindns.com
+
   # 美团 HTTPDNS
+  - hcdnl.pull302.gslb.livehwc3.cn
   - resolvers-cn.httpdns.aliyuncs.com
   - dnspod.meituan.httpdns.qcloud.com
   - dnspod.meituan.httpdns.start.qcloud.com
-  - hcdnl.pull302.gslb.livehwc3.cn
   - httpdnsmultiapivip.meituan.com
   - httpdnsmultiapi.meituan.com
   - httpdns.meituan.com
+
+domain_keyword_set:
+  - httpdns
+
 domain_suffix_set:
   - httpdns.qcloud.com
   # - g.doubleclick-cn.net

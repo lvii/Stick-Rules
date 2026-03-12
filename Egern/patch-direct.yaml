@@ -1,7 +1,6 @@
 no_resolve: true
+
 domain_set:
-  # Firefox
-  - download-installer.cdn.mozilla.net
   # Alipay
   - amdc.m.taobao.com
   - mobilegw.alipay.com
@@ -9,39 +8,52 @@ domain_set:
   - cdn.branch.io
   # VSCO / darkroom App
   - api.revenuecat.com
+  # Firefox
+  - download-installer.cdn.mozilla.net
+
   # Google Play
-  # https://github.com/vernesong/OpenClash/discussions/3131
-  - fonts.googleapis.com
-  - update.googleapis.com
-  - translate.googleapis.com
-  - clientservices.googleapis.com
-  # github CDN
-  - raw.fastgit.org
-  - fastly.jsdelivr.net
-  - testingcf.jsdelivr.net
+  # # https://github.com/vernesong/OpenClash/discussions/3131
+  # - fonts.googleapis.com
+  # - update.googleapis.com
+  # - translate.googleapis.com
+  # - clientservices.googleapis.com
+
+  # # github CDN
+  # - raw.fastgit.org
+  # - fastly.jsdelivr.net
+  # - testingcf.jsdelivr.net
+
 domain_keyword_set:
-  # - '-cn'
-  - officecdn
   # BT
   - torrent
   - tracker
   - announce
   # Spotify
   - spotify-com.akamaized.net
+
 domain_suffix_set:
-  # Google Play
-  - googleapis.cn
-  - xn--ngstr-lra8j.com
-  # github CDN
-  - gh-proxy.com
   # Apple
   - apple-dns.net
   - push.apple.com
+
+  # github CDN
+  - gh-proxy.com
+
+  # 萤石
   - ys7.com
+
+  # 小度
   - xiaoduwifi.com
+
+  # 美团
   - meituan.com
   - meituan.net
   - dianping.com
+
+  # # Google Play
+  # - googleapis.cn
+  # - xn--ngstr-lra8j.com
+
 ip_cidr_set:
   # Taobao
   - 47.246.0.0/8
