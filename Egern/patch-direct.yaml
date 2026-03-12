@@ -59,9 +59,9 @@ domain_suffix_set:
   # - snssdk.com
   # - zijieapi.com
   - bytedapm.com
+  - bytedance.com
   - feishucdn.com
   - larkoffice.com
-  - bytedance.com
 
 ip_cidr_set:
   # Taobao

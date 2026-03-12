@@ -32,6 +32,17 @@ domain_set:
 domain_wildcard_set:
   - "mon-*.byteoversea.com"
 
+domain_regex_set:
+  # match: "^(ad|ads)-?\\..*|^ads\\..*"
+  # - "^ads?[-.].*"
+  # - "^ads?.*\."
+  - "^ads?[-.a-z]"
+
+# domain_regex_set:
+#   - \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+#   - ^.+-mihayo\.akamaized\.net$
+#   - .+\.azchcdn[a-s]\.com$
+
 domain_keyword_set:
   - httpdns
   - tracing
