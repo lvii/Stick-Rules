@@ -20,7 +20,7 @@ domain_set:
   - fastly.jsdelivr.net
   - testingcf.jsdelivr.net
 domain_keyword_set:
-  - '-cn'
+  # - '-cn'
   - officecdn
   # BT
   - torrent

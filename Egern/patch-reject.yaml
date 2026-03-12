@@ -25,6 +25,8 @@ domain_set:
   - httpdns.meituan.com
 domain_suffix_set:
   - httpdns.qcloud.com
+  # - g.doubleclick-cn.net
+  # - googlesyndication-cn.com
 
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Telegram/Telegram.list
 # OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
