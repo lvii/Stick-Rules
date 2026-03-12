@@ -17,7 +17,9 @@
 
 [Hackl0us SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 
-[SukkaW Rules](https://github.com/SukkaW/Surge/tree/master/Source)
+[SukkaW skk ruleset](https://github.com/SukkaLab/ruleset.skk.moe)
+
+<https://github.com/SukkaW/Surge/blob/master/.github/workflows/main.yml>
 
 [xOS](https://github.com/xOS/Config/blob/Her/)
 

@@ -7,6 +7,7 @@ domain_suffix_set:
 domain_keyword_set:
   - umeng
   - tracing
+  - tracking
 
 # domain_wildcard_set:
 #   - "*.qhimgs?.com"

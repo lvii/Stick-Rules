@@ -46,6 +46,7 @@ domain_suffix_set:
   - xiaoduwifi.com
 
   # 美团
+  - sankuai.com
   - meituan.com
   - meituan.net
   - dianping.com
@@ -53,6 +54,14 @@ domain_suffix_set:
   # # Google Play
   # - googleapis.cn
   # - xn--ngstr-lra8j.com
+
+  # Lark 飞书
+  # - snssdk.com
+  # - zijieapi.com
+  - bytedapm.com
+  - feishucdn.com
+  - larkoffice.com
+  - bytedance.com
 
 ip_cidr_set:
   # Taobao

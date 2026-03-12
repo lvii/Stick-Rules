@@ -10,7 +10,7 @@ domain_set:
   - pufferstatis.xdrtc.com
 
   # 萤石
-  # i.ys7.com 消息推送缩略图 thumbnail image
+  # i.ys7.com 消息推送 Thumbnail 缩略图
   - bfe.ys7.com
   - log.ys7.com
   # - ecapi-flood.ys7.com
@@ -21,19 +21,32 @@ domain_set:
   - httpdns.yunxindns.com
 
   # 美团 HTTPDNS
+  - httpdns.meituan.com
+  - httpdnsmultiapi.meituan.com
+  - httpdnsmultiapivip.meituan.com
   - hcdnl.pull302.gslb.livehwc3.cn
   - resolvers-cn.httpdns.aliyuncs.com
   - dnspod.meituan.httpdns.qcloud.com
   - dnspod.meituan.httpdns.start.qcloud.com
-  - httpdnsmultiapivip.meituan.com
-  - httpdnsmultiapi.meituan.com
-  - httpdns.meituan.com
+
+domain_wildcard_set:
+  - "mon-*.byteoversea.com"
 
 domain_keyword_set:
   - httpdns
+  - tracing
+  - tracking
 
 domain_suffix_set:
+  # 萤石
+  - umeng.com
+  - umengcloud.com
+  # 小度
+  - hookspf.com
+  - anythinktech.com
+  # 美团
   - httpdns.qcloud.com
+
   # - g.doubleclick-cn.net
   # - googlesyndication-cn.com
 
