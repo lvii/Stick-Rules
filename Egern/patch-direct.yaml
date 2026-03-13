@@ -11,6 +11,24 @@ domain_set:
   # Firefox
   - download-installer.cdn.mozilla.net
 
+  # Sony TV
+  - sony.tv
+  - aisee.tv
+
+  # Sony Headphones
+  - sony.com
+  - sony.net
+  - ndmdhs.com
+  - janraincapture.com
+
+  # iRobot
+  - irobotapi.com
+
+  # HTTPDNS
+  - doh.pub
+  - dot.pub
+  - dns.alidns.com
+
   # Google Play
   # # https://github.com/vernesong/OpenClash/discussions/3131
   # - fonts.googleapis.com
