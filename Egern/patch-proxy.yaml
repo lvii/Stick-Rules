@@ -24,7 +24,8 @@ domain_suffix_set:
   - egernapp.com
   - egernlicense.com
 
-  # 不明白 podcast
+  # PocketCasts
+  - acast.com
   - buzzsprout.com
 
   # # Google Play
