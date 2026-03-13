@@ -1,3 +1,7 @@
+domain_set:
+  # 萤石 Huawei HTTPDNS
+  - httpdns.yunxindns.com
+
 domain_suffix_set:
   - umeng.com
   - umengcloud.com

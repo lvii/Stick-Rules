@@ -11,19 +11,6 @@ domain_set:
   # Firefox
   - download-installer.cdn.mozilla.net
 
-  # Sony TV
-  - sony.tv
-  - aisee.tv
-
-  # Sony Headphones
-  - sony.com
-  - sony.net
-  - ndmdhs.com
-  - janraincapture.com
-
-  # iRobot
-  - irobotapi.com
-
   # HTTPDNS
   - doh.pub
   - dot.pub
@@ -56,6 +43,19 @@ domain_suffix_set:
 
   # github CDN
   - gh-proxy.com
+
+  # Sony TV
+  - sony.tv
+  - aisee.tv
+
+  # Sony Headphones
+  - sony.com
+  - sony.net
+  - ndmdhs.com
+  - janraincapture.com
+
+  # iRobot
+  - irobotapi.com
 
   # 萤石
   - ys7.com
