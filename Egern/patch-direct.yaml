@@ -61,7 +61,9 @@ domain_suffix_set:
   - ys7.com
 
   # 小度
+  - xdrtc.com
   - xiaoduwifi.com
+  - bcebos.com
 
   # 美团
   - sankuai.com

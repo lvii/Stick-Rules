@@ -1,0 +1,7 @@
+no_resolve: true
+
+domain_set:
+
+  # Xiaodu
+  - crab.baidu.com             # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中
+  - sofire.baidu.com           # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中

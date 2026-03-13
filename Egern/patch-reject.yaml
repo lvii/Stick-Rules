@@ -5,9 +5,9 @@ domain_set:
   # Xiaodu
   - im-x.jd.com
   - adtrack.qianwen.com
-  - crab.baidu.com
-  - sofire.baidu.com
-  - pufferstatis.xdrtc.com
+  - crab.baidu.com             # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中
+  - sofire.baidu.com           # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中
+  - pufferstatis.xdrtc.com     # 命中
 
   # 萤石
   # i.ys7.com 消息推送 Thumbnail 缩略图
