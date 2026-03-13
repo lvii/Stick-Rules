@@ -15,6 +15,8 @@ domain_suffix_set:
   - myip.la
   - notion.so
   - evernote.com
+  - inoreader.com
+  - innoreader.com
 
   # Egern App
   - nutrepo.com
