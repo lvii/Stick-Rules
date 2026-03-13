@@ -3,15 +3,17 @@ domain_set:
   - httpdns.yunxindns.com
 
 domain_suffix_set:
+  # 萤石
   - umeng.com
   - umengcloud.com
+  # 小度
   - hookspf.com
   - anythinktech.com
 
-domain_keyword_set:
-  - umeng
-  - tracing
-  - tracking
+# domain_keyword_set:
+#   - umeng
+#   - tracing
+#   - tracking
 
 # domain_wildcard_set:
 #   - "*.qhimgs?.com"
