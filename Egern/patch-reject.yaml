@@ -29,6 +29,8 @@ domain_set:
   - dnspod.meituan.httpdns.qcloud.com
   - dnspod.meituan.httpdns.start.qcloud.com
 
+  - sessions.bugsnag.com
+
 domain_wildcard_set:
   - "mon-*.byteoversea.com"
 
