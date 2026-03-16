@@ -55,6 +55,11 @@ domain_suffix_set:
   # 小度
   - hookspf.com
   - anythinktech.com
+  # cpc-service-square.yunxish.com
+  - yunxish.com
+  # cpc-service-square.iggrowth.cn
+  - iggrowth.cn
+
   # 美团
   - httpdns.qcloud.com
 
