@@ -3,7 +3,7 @@ no_resolve: true
 domain_set:
 
   # Xiaodu
-  - im-x.jd.com
+  # - im-x.jd.com
   - adtrack.qianwen.com
   - crab.baidu.com             # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中
   - sofire.baidu.com           # DivineEngin / AWAvenue / Aegis 未命中 | Dler CN 命中
