@@ -1,6 +1,12 @@
 domain_set:
-  # 萤石 Huawei HTTPDNS
+  # 萤石
+  - log.ys7.com
   - httpdns.yunxindns.com
+
+  # 小度
+  - crab.baidu.com
+  - sofire.baidu.com
+  - pufferstatis.xdrtc.com
 
 domain_suffix_set:
   # 萤石

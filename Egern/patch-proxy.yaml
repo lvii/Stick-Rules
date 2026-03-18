@@ -13,6 +13,7 @@ domain_set:
 
 domain_suffix_set:
   - myip.la
+  - v2ex.com
   - notion.so
   - evernote.com
   - inoreader.com
@@ -27,6 +28,10 @@ domain_suffix_set:
   # PocketCasts
   - acast.com
   - buzzsprout.com
+
+  # Tailscale
+  - ts.net
+  - tailscale.com
 
   # # Google Play
   # # - googleapis.cn

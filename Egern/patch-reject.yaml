@@ -31,6 +31,9 @@ domain_set:
 
   - sessions.bugsnag.com
 
+  # 盒马
+  - alilang-intranet.alibaba-inc.com
+
 domain_wildcard_set:
   - "mon-*.byteoversea.com"
 

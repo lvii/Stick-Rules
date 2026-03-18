@@ -37,6 +37,10 @@ domain_keyword_set:
   - spotify-com.akamaized.net
 
 domain_suffix_set:
+
+  # podcast
+  - typlog.com
+
   # Apple
   - apple-dns.net
   - push.apple.com
