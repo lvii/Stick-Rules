@@ -1,0 +1,22 @@
+no_resolve: true
+
+domain_set:
+  # Alipay
+  - amdc.m.taobao.com
+  - mobilegw.alipay.com
+
+domain_keyword_set:
+  # BT
+  - torrent
+  - tracker
+  - announce
+
+domain_suffix_set:
+
+  # Lark 飞书
+  - snssdk.com
+  - zijieapi.com
+
+ip_cidr_set:
+  # Taobao
+  - 47.246.0.0/8
