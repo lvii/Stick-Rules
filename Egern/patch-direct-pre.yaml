@@ -16,6 +16,13 @@ domain_set:
   - dot.pub
   - dns.alidns.com
 
+  # 招商银行/证券
+  - cmbchina.com
+  - cmschina.com
+
+  # 上海证券交易所（SSE）
+  - sseinfo.com
+
   # Google Play
   # # https://github.com/vernesong/OpenClash/discussions/3131
   # - fonts.googleapis.com
@@ -82,10 +89,14 @@ domain_suffix_set:
   # Lark 飞书
   # - snssdk.com
   # - zijieapi.com
+
   - bytedapm.com
   - bytedance.com
   - feishucdn.com
   - larkoffice.com
+
+  - bytetos.com
+  - byted-static.com
 
 ip_cidr_set:
   # Taobao
