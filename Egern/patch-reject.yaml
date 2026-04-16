@@ -1,5 +1,10 @@
 no_resolve: true
 
+# IPv6 泄漏封堵
+ip_cidr6_set:
+  - "2400::/12"
+  - "240e::/16"
+
 domain_set:
 
   # Xiaodu
@@ -49,11 +54,18 @@ domain_regex_set:
 #   - .+\.azchcdn[a-s]\.com$
 
 domain_keyword_set:
+  - analy
   - httpdns
   - tracing
   - tracking
 
 domain_suffix_set:
+  # Google
+  - googletagmanager.com
+  - app-analytics-services.com
+  - connectivitycheck.gstatic.com
+  - crashlyticsreports-pa.googleapis.com
+
   # 萤石
   - umeng.com
   - umengcloud.com
