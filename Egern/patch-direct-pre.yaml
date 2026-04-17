@@ -83,8 +83,10 @@ domain_suffix_set:
   # - snssdk.com
   # - zijieapi.com
   - bytedapm.com
+  - ibytedapm.com
   - bytedance.com
   - feishucdn.com
+  - larksuite.com
   - larkoffice.com
   - bytecdn.com
   - byteimg.com

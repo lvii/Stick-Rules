@@ -101,6 +101,7 @@ domain_suffix_set:
 
   # PCDN
   # https://github.com/enriquephl/QuantumultX_config/blob/main/filters/NoMalwares.conf
+  - tec73.com
   - qiezibenpao.com
 
   # - g.doubleclick-cn.net
