@@ -93,6 +93,7 @@ domain_suffix_set:
   - bytescm.com
   - bytetos.com
   - byted-static.com
+  - doubao.com
 
   # 招商银行/证券
   - cmbchina.com
@@ -100,6 +101,9 @@ domain_suffix_set:
 
   # 上海证券交易所（SSE）
   - sseinfo.com
+
+  # Bilibili
+  - biligame.com
 
 ip_cidr_set:
   # Taobao

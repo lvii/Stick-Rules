@@ -48,6 +48,9 @@ domain_set:
   - sd-gl.xinqiucc.com
   - spcsz.cdn.bcebos.com
 
+  - market.qunar.com
+  - sat0.net
+
 domain_wildcard_set:
 
   # PCDN
