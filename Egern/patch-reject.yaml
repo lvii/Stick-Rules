@@ -41,6 +41,7 @@ domain_set:
 
   # Taobao
   - mum.alibabachengdun.com
+  - mum.alibabachengdun.net
 
   # PCDN
   # https://github.com/enriquephl/QuantumultX_config/blob/main/filters/NoMalwares.conf
