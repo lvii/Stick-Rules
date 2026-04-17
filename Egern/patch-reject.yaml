@@ -39,7 +39,26 @@ domain_set:
   # 盒马
   - alilang-intranet.alibaba-inc.com
 
+  # Taobao
+  - mum.alibabachengdun.com
+
+  # PCDN
+  # https://github.com/enriquephl/QuantumultX_config/blob/main/filters/NoMalwares.conf
+  - tp2p.kg.qq.com
+  - sd-gl.xinqiucc.com
+  - spcsz.cdn.bcebos.com
+
 domain_wildcard_set:
+
+  # PCDN
+  # https://github.com/enriquephl/QuantumultX_config/blob/main/filters/NoMalwares.conf
+  # HOST, xpis-xcdn.youku.com
+  # HOST, xpis-mob-xcdn.youku.com
+  # HOST, xpis-tel-xcdn.youku.com
+  # HOST-WILDCARD, xpis-*-xcdn.youku.com
+  - "*-xcdn.youku.com"
+
+  # Lark 飞书
   - "mon-*.byteoversea.com"
 
 domain_regex_set:
@@ -79,6 +98,10 @@ domain_suffix_set:
 
   # 美团
   - httpdns.qcloud.com
+
+  # PCDN
+  # https://github.com/enriquephl/QuantumultX_config/blob/main/filters/NoMalwares.conf
+  - qiezibenpao.com
 
   # - g.doubleclick-cn.net
   # - googlesyndication-cn.com
