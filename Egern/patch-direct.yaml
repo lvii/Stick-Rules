@@ -13,9 +13,14 @@ domain_keyword_set:
 
 domain_suffix_set:
 
+  # https://github.com/lingeringsound/10007_auto/blob/master/Adaway_white_list.prop
+
   # Lark 飞书
   - snssdk.com
   - zijieapi.com
+
+  # 360
+  - qihu.com
 
 ip_cidr_set:
   # Taobao
