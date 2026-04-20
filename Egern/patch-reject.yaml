@@ -108,6 +108,9 @@ domain_suffix_set:
   - tec73.com
   - qiezibenpao.com
 
+  # sdkgen.data.tianwenca.com/o_live_p2p_mobilesdk
+  - tianwenca.com
+
   - alibabachengdun.com
 
   # - g.doubleclick-cn.net

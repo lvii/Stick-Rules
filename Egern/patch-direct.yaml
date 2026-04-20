@@ -25,6 +25,26 @@ domain_suffix_set:
   # PDD
   - pinduoduo.com
 
+  - blibee.com
+  - blibee.net
+
+  - aliapp.org
+  - alipay-eco.com
+
+  # 小红书
+  # https://github.com/Ground-Zerro/Geo-Aggregator/blob/main/source2/xiaohongshu.txt
+  # https://github.com/KaringX/karing-ruleset/blob/sing/geo/geosite/xiaohongshu.json
+  - askdiandian.com
+  - diandianlife.top
+  # - rednote.com
+  # - rednote.com.my
+  # - rednotecdn.com
+  # - xhscdn.com
+  # - xhscdn.net
+  # - xhslink.com
+  # - xhsrcdn.com
+  # - xiaohongshu.com
+
 ip_cidr_set:
   # Taobao
   - 47.246.0.0/8
