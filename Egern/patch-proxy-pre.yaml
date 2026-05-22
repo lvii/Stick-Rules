@@ -15,7 +15,9 @@ domain_suffix_set:
   - myip.la
   - v2ex.com
   - notion.so
+  - notion.site
   - notionusercontent.com
+
   - evernote.com
   - inoreader.com
   - innoreader.com
@@ -33,6 +35,9 @@ domain_suffix_set:
   # Tailscale
   - ts.net
   - tailscale.com
+
+  - sentry.io
+  - splunkcloud.com
 
   # # Google Play
   # # - googleapis.cn
