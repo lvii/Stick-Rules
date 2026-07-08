@@ -8,10 +8,23 @@ domain_set:
   # - im-x.jd.com              # Kelee
 
   # Lark 飞书
-  - mcs-bd.feishu.cn
-  - internal-api-security.larkoffice.com
-  - internal-api-security-tenant-probe.larkoffice.com
+  # - mcs.zijieapi.com
+  # - mon.snssdk.com
+  - mon.toutiao.com
+
+domain_suffix_set:
+  # Lark 飞书
+  - snssdk.com
+  - isnssdk.com
+  - zijieapi.com
+
+domain_keyword_set:
+  # Lark 飞书
+  - mcs-bd
+  - slardar-bd
+  - internal-api-security
 
 domain_wildcard_set:
   # Lark 飞书
   - "mon-*.byteoversea.com"
+  - "*-mcs.byteoversea.com"
