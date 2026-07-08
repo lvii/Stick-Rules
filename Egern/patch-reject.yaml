@@ -52,6 +52,11 @@ domain_set:
   - market.qunar.com
   - sat0.net
 
+  # Lark 飞书
+  - mcs-bd.feishu.cn
+  - internal-api-security.larkoffice.com
+  - internal-api-security-tenant-probe.larkoffice.com
+
 domain_wildcard_set:
 
   # PCDN
