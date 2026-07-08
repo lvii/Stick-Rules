@@ -8,6 +8,11 @@ domain_set:
   - sofire.baidu.com
   - pufferstatis.xdrtc.com
 
+  # Lark 飞书
+  - mcs-bd.feishu.cn
+  - internal-api-security.larkoffice.com
+  - internal-api-security-tenant-probe.larkoffice.com
+
 domain_suffix_set:
   # 萤石
   - umeng.com
